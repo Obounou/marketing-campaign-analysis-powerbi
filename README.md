@@ -47,6 +47,10 @@ A star schema was implemented:
 - Total Clients: 45K
 - Converted Clients: 5289
 - Average Revenue: 52K
+<img width="501" height="287" alt="image" src="https://github.com/user-attachments/assets/4a1c7b14-9401-48b4-87a5-53ae103dcdd4" />
+
+<img width="500" height="283" alt="image" src="https://github.com/user-attachments/assets/0ec67fab-8022-4562-9300-0f3554bd2ff2" />
+
 
 ---
 
